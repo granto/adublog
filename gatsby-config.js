@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Gatsby Starter Personal Blog`,
-    author: `Gatsby`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    title: `ADUROI Blog`,
+    author: `Rachel`,
+    description: `Does an ADU make financial sense.`,
+    siteUrl: `https://adublog.netlify.com/`,
     social: {
-      twitter: `gatsbyjs`,
+      twitter: `olsengrant`,
     },
   },
   plugins: [
@@ -108,7 +108,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+         trackingId: `UA-147620349-1`,
       },
     },
     {
