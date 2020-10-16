@@ -34,7 +34,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, to help people understand if an ADU makes financial sense.
+              Written by the <strong>{author}</strong>, to help you understand if an ADU makes financial sense.
               {/* {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 Follow me on Twitter 

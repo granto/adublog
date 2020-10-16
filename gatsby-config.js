@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     // edit below
     title: `ADUROI Blog`,
-    author: `Rachel`,
+    author: `ADUROI Team`,
     description: `Does an ADU make financial sense. Calculate and evaluate the return on investment of adding an ADU to your property or an investment property.`,
     siteUrl: `https://blog.aduroi.com/`,
     social: {
