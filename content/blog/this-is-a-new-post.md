@@ -1,5 +1,5 @@
 ---
-path: Why Build an ADU?
+path: Why-Build-an-ADU
 date: 2020-10-16T00:40:02.350Z
 title: Why Build an ADU?
 description: What are some of the reasons that we built an ADU.
