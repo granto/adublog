@@ -37,8 +37,8 @@ function Bio() {
               Written by <strong>{author}</strong>, to help people understand if an ADU makes financial sense.
               {/* {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter */}
-              </a>
+                Follow me on Twitter 
+              </a>*/}
             </p>
           </Container>
         )

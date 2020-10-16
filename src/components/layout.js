@@ -7,8 +7,8 @@ import { rhythm, scale } from "../utils/typography"
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
-    const rootPath = `//aduroi.com`
-    const blogPath = `//aduroi.com/blog/`
+    const rootPath = `${__PATH_PREFIX__}/`
+    const blogPath = `${__PATH_PREFIX__}/blog/`
     let header
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
@@ -20,16 +20,9 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={location.pathname === blogPath ? `/blog/` : `/`}
-          >
+          <a href="https://aduroi.com">
             {title}
-          </Link>
+          </a>
         </h1>
       )
     } else {
@@ -40,16 +33,9 @@ class Layout extends React.Component {
             marginTop: 0,
           }}
         >
-          <Link
-            style={{
-              boxShadow: `none`,
-              textDecoration: `none`,
-              color: `inherit`,
-            }}
-            to={`/blog/`}
-          >
+          <a href="https://aduroi.com">
             {title}
-          </Link>
+          </a>
         </h3>
       )
     }
@@ -69,7 +55,7 @@ class Layout extends React.Component {
         <Footer>
           © {new Date().getFullYear()}, Built with
           {` `}
-          <a href="https://www.gatsbyjs.org">Gatsby!</a>
+          <a href="https://www.gatsbyjs.org">Gatsby</a>
         </Footer>
       </Wrapper>
     )

@@ -24,9 +24,12 @@ class Blog extends React.Component {
           navigate={navigate}
           location={location}
         />
-        <Link to="/">
+        <a href="https://aduroi.com">
+        <Button marginTop="85px">Go Home</Button>
+          </a>
+          {/* <Link to="/">
           <Button marginTop="85px">Go Home</Button>
-        </Link>
+        </Link> */}
       </Layout>
     )
   }
