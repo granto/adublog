@@ -34,11 +34,10 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>, a framework built upon the
-              React library.
-              {` `}
+              Written by <strong>{author}</strong>, to help people understand if an ADU makes financial sense.
+              {/* {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
-                Follow me on Twitter
+                Follow me on Twitter */}
               </a>
             </p>
           </Container>

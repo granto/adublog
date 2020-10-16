@@ -6,7 +6,7 @@ module.exports = {
     description: `Does an ADU make financial sense.`,
     siteUrl: `https://adublog.netlify.com/`,
     social: {
-      twitter: `olsengrant`,
+      twitter: `rachelaolsen`,
     },
   },
   plugins: [
