@@ -2,8 +2,8 @@
 path: why-build-an-adu
 date: 2020-10-16T05:29:37.527Z
 title: Why Build an ADU?
-description: This post explains the some of the reasons why we built an ADU and
-  why it made financial sense.
+description: This post explains some of the reasons why we built an ADU and why
+  it made financial sense.
 ---
 In 2018, my husband and I decided to buy our first investment property in the Southern California market. Our goal was to increase our income during retirement.
 
