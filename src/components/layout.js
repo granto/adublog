@@ -7,8 +7,8 @@ import { rhythm, scale } from "../utils/typography"
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
-    const rootPath = `${__PATH_PREFIX__}/`
-    const blogPath = `${__PATH_PREFIX__}/blog/`
+    const rootPath = `//aduroi.com`
+    const blogPath = `//aduroi.com/blog/`
     let header
 
     if (location.pathname === rootPath || location.pathname === blogPath) {
