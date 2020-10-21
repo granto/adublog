@@ -1,6 +1,6 @@
 ---
 path: Housable vs. Maxable
-date: 2020-10-19T15:34:57.409Z
+date: 2020-10-15T15:34:57.409Z
 title: Housable VS. Maxable
 description: Find out the similarities and differences between these 2 Granny
   Flat Companies.
