@@ -1,6 +1,6 @@
 ---
 path: why-build-an-adu
-date: 2020-10-16T05:29:37.527Z
+date: 2020-10-02T05:29:37.527Z
 title: Why Build an ADU?
 description: This post explains some of the reasons why we built an ADU and why
   it made financial sense.
