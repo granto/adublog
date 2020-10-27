@@ -3,9 +3,9 @@ path: buy and hold real estate investing
 date: 2020-09-15T16:06:32.517Z
 title: What is Buy and Hold Real Estate Investing?
 description: "ADU's are slowing becoming the most lucrative buy and hold real
-  estate.  When you can have up to 3 properties on one parcel of land, you can
-  pay down your principle mortgage more quickly and get cash flow coming in
-  instead of just going out. "
+  estate investment.  When you can have up to 3 properties on one parcel of
+  land, you can pay down your principle mortgage more quickly and get cash flow
+  coming in instead of just going out. "
 ---
 ![aduroi.com](../assets/buy-and-hold-real-estate.png "buy and hold real estate investing")
 
