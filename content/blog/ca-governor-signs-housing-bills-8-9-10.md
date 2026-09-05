@@ -3,7 +3,7 @@ title: "California housing bills 8, 9 and 10: historical coverage"
 description: "This September 2021 news item is preserved as historical coverage. Its old summaries are not current parcel-specific entitlement advice."
 date: "2021-09-17T01:17:38.898Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Historical coverage"
 status: "archived"
 featured: false

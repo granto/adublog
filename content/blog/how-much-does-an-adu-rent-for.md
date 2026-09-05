@@ -3,7 +3,7 @@ title: "How much does an ADU rent for? Build a defensible comp set"
 description: "A repeatable method for estimating ADU rent using comparable units, consistent costs, and conservative assumptions instead of an automatic new-build premium."
 date: "2020-10-29T00:46:41.201Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Cash flow"
 status: "published"
 featured: false

@@ -3,7 +3,7 @@ title: "ADU cash flow: why monthly rent is not the answer"
 description: "Turn rent into a useful comparison after vacancy, expenses, financing, taxes, and construction timing."
 date: "2026-09-04T12:00:00.000Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Cash flow"
 status: "published"
 featured: true

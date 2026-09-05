@@ -3,7 +3,7 @@ title: "How to finance an ADU: compare the terms, not just the payment"
 description: "ADU mortgage options exist. Compare renovation financing, home-equity borrowing, cash, and the risks and questions to take to a lender."
 date: "2020-09-02T00:04:39.356Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Financing"
 status: "published"
 featured: false

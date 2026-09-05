@@ -3,7 +3,7 @@ title: "A useful ADU construction-cost estimate is a range, not a single number"
 description: "What an early ADU budget should include, what can move it, and how to test low, likely, and high costs."
 date: "2026-09-04T12:00:00.000Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Planning"
 status: "published"
 featured: true

@@ -3,7 +3,7 @@ title: "Housable vs. Maxable: historical comparison"
 description: "The 2020 vendor comparison has not been revalidated against current first-party service terms. The comparison chart is retired."
 date: "2020-10-15T15:34:57.409Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Historical coverage"
 status: "archived"
 featured: false

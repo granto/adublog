@@ -3,7 +3,7 @@ title: "What is buy-and-hold real estate investing?"
 description: "How an ADU fits into a long-term property investment, and why reserves, operating cash flow, and a cautious exit assumption matter."
 date: "2020-09-15T16:06:32.517Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Planning"
 status: "published"
 featured: false

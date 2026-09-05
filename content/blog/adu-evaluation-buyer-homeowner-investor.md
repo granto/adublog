@@ -3,7 +3,7 @@ title: "Buying a home with an ADU and adding one are different financial decisio
 description: "A practical comparison for buyers, current homeowners, and investors, with the baseline and cash requirements kept visible."
 date: "2026-09-04T12:00:00.000Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Planning"
 status: "published"
 featured: true

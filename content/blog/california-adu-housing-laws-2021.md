@@ -3,7 +3,7 @@ title: "California ADU housing laws 2021: historical coverage"
 description: "The original 2020 article discussed bills and predictions for 2021. It is not a statement of current California law."
 date: "2020-11-16T18:44:05.694Z"
 reviewed: "2026-09-04"
-author: "ADUroi Team"
+author: "Grant Olsen"
 topic: "Historical coverage"
 status: "archived"
 featured: false
