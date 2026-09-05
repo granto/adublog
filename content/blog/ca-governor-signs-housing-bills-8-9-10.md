@@ -1,33 +1,29 @@
 ---
-path: CA Housing Bills 8, 9, 10
-date: 2021-09-17T01:17:38.898Z
-title: CA Governor Signs Housing Bills 8, 9 & 10
-description: "In an effort to boost the state of California's housing supply and
-  alleviate the housing crisis, find out what these Bills mean for you as a
-  homeowner and investor. "
+title: "California housing bills 8, 9 and 10: historical coverage"
+description: "This September 2021 news item is preserved as historical coverage. Its old summaries are not current parcel-specific entitlement advice."
+date: "2021-09-17T01:17:38.898Z"
+reviewed: "2026-09-04"
+author: "ADUroi Team"
+topic: "Historical coverage"
+status: "archived"
+featured: false
+cta: "Test your assumptions before committing to a project."
+archiveReason: "This September 2021 news item is preserved as historical coverage. Its old summaries are not current parcel-specific entitlement advice."
 ---
-What is SB 8, SB 9 and SB 10?  Read the full press release [HERE](https://www.gov.ca.gov/2021/09/16/governor-newsom-signs-historic-legislation-to-boost-californias-housing-supply-and-fight-the-housing-crisis/).  
 
+This page originally linked to the governor's September 2021 announcement about SB 8, SB 9, and SB 10. These are distinct housing measures, not a universal promise that an owner can add a particular number of units or split any lot.
 
+## Read the announcement as history
 
-***SB 8** extends the Housing Crisis Act of 2019 to jumpstart more housing production extending the provisions of the Housing Crisis Act of 2019 through 2030.*
+The [September 16, 2021 governor's announcement](https://www.gov.ca.gov/2021/09/16/governor-newsom-signs-historic-legislation-to-boost-californias-housing-supply-and-fight-the-housing-crisis/) records the legislation at that time. We have removed the old compressed eligibility summary and diagram from this page because they should not be used to determine current rights.
 
-***SB 9** gives homeowners additional tools to add critically needed new housing and help ease California’s housing shortage.  It eliminates single family zoning restrictions on duplex and four-plexes.*
+## Check the proposal, not just the bill number
 
-* Allows property owners to have two units on a parcel zoned for single-family housing — creating a duplex — and to split a residential parcel into two pieces.
+Ask the jurisdiction which rules apply to your lot and whether you are proposing an ADU, a lot split, or another form of housing. Those pathways have different requirements. Get a documented answer before basing a purchase or construction budget on an assumed unit count.
 
-  * requires a property owner who wants to split the parcel to agree to live in one of the housing units for at least three years, unless the owner is a nonprofit.  It contains important protections against the displacement of existing tenants.
+For ADUs, start with California HCD's current program page and the handbook it links. For the financial comparison, read [the buyer, homeowner, and investor guide](/blog/adu-evaluation-buyer-homeowner-investor/).
 
-    * newly formed plots to be at least 1,200 square feet in size and mandating that one parcel can’t be smaller than 40% of the original lot size.
+## Current starting points checked September 4, 2026
 
-  Excludes earthquake fault zones, historic sites/landmark districts and land within the "very high" fire hazard zones. 
-
-  ![YIMBY](../assets/sb-9-explainer-graphic.png "YIMBY")
-
-
-
-***SB 10** establishes voluntary, streamlined process for cities to zone for multi-unit housing — making it easier and faster to construct housing*
-
-* It allows, but not does require, cities to zone a parcel for up to 10 residential units if it’s located in a “transit-rich area.”
-
-  Interested in knowing if building another unit makes financial sense for your property?  Check out our app at [ADUROI.com.](https://aduroi.com/#features)
+- [California HCD ADU program and current handbook](https://www.hcd.ca.gov/building-standards/adu)
+- [Fannie Mae ADU guidance](https://singlefamily.fanniemae.com/originating-underwriting/mortgage-products/accessory-dwelling-units)

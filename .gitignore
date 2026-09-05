@@ -54,6 +54,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Local-only editorial drafts and verification artifacts
+.hermes/
+
 # gatsby files
 .cache/
 public

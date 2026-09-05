@@ -1,30 +1,29 @@
 ---
-path: 2021 California ADU Housing Laws
-date: 2020-11-16T18:44:05.694Z
-title: California ADU Housing Laws 2021
-description: What does the financial future look like for CA Accessory Dwelling
-  Units in 2021?
+title: "California ADU housing laws 2021: historical coverage"
+description: "The original 2020 article discussed bills and predictions for 2021. It is not a statement of current California law."
+date: "2020-11-16T18:44:05.694Z"
+reviewed: "2026-09-04"
+author: "ADUroi Team"
+topic: "Historical coverage"
+status: "archived"
+featured: false
+cta: "Test your assumptions before committing to a project."
+archiveReason: "The original 2020 article discussed bills and predictions for 2021. It is not a statement of current California law."
 ---
-![AB 3182 Ting ADUROI](../assets/ab-3182-ting.png "CA Housing Laws ADU 2021")
 
+This article originally discussed the veto of AB 69 and changes associated with AB 3182. The original publication date remains above. We have retired the old financing and automatic-approval summaries rather than presenting them as current legal instructions.
 
+## Use the current state and local sources
 
-In September 2020, Governor Newsom vetoed [Assembly Bill 69](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB69) that would have addressed the limited construction loan market. In other words, it would have helped homeowners qualify for construction loans specific to ADU’s.
+California's ADU statutes and guidance have changed since this article was written. HCD's ADU program page links to its handbook, listed as updated March 2026, and notes that relevant Government Code sections were renumbered in 2024.
 
+Read the handbook and contact the local planning and building departments about the specific proposal. Ask how application completeness, review periods, setbacks, utilities, and project type affect the process. A short summary of an old bill cannot establish eligibility or guarantee permit timing.
 
+## Financing correction
 
-The veto stated ADUs as a "critical tool for increasing housing supply in California," but stated that AB 69 would harm the California Housing Finance Agency's credit ratings and therefore negatively impact affordable housing production generally. The governor directed the Business, Consumer Services and Housing Agency to continue departmental efforts to increase access to capital markets for ADU applicants.
+The original discussion suggested continued absence of ADU-specific financing. That is not useful current guidance. Fannie Mae describes loan options for ADU purchases, renovations, and additions, subject to program and lender requirements. See [our corrected financing guide](/blog/how-to-finance-an-adu/).
 
+## Current starting points checked September 4, 2026
 
-
-While we are unsure exactly what that means, we know it will take time for our government to figure it out. We are continuing down the road of no specific financing for ADU’s.
-
-
-
-[AB 3182](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200AB3182) also specifies that if a local agency has not acted upon a completed ADU application within 60 days, the application shall be deemed approved.
-
-
-
-Wow! That is some fantastic news. We all know how long the city permitting process can take so this is definitely a positive.
-
-There you have it - the bad, the good and well hopefully more good news to come in 2021!
+- [California HCD ADU program and current handbook](https://www.hcd.ca.gov/building-standards/adu)
+- [Fannie Mae ADU guidance](https://singlefamily.fanniemae.com/originating-underwriting/mortgage-products/accessory-dwelling-units)
